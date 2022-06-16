@@ -254,5 +254,6 @@ void main()
 
 	printf("\n Linked list after sorting ");
 	display(first);
+	printf("\n------------------\n")
 
 }
